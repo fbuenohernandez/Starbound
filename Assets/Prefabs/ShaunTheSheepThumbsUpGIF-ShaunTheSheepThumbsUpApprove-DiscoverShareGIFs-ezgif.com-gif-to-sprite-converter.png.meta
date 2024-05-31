@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 611565a92e29d7141b27b635df43ae25
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1884
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1480723393cf47b0bde521f5a9cdc
+      internalID: 2038478057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1884
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a41ad9f4e0a142a543d643b3b1b96
+      internalID: 2045827562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1884
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e8364b6a9e0dd4b9f410a23a4fdcdd
+      internalID: -600806994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1884
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6efd7bfd7b5e6545a7fb6b3a1e09c71
+      internalID: 224627737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1884
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4865413a8502b4fa8a2cef16d7aad1
+      internalID: -1852564297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda1057b003e84a47bbe4091f0fbb6f3
+      internalID: 2010132864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1570
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc45d5864b056469bb7f80c23734fb
+      internalID: 1586355398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1570
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84c56fd7843b148b83f4e994fff29f
+      internalID: 1837522497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1570
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d97c601a853dc4aa1704eccd4615d8
+      internalID: 1043853782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1570
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99979e2b042e044479c99247a008d35d
+      internalID: -1091062700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9021ab880d3084b87ab3114f82ab01
+      internalID: -41613478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1256
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491573ed7e13e4498fdabb918200737
+      internalID: 334832469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1256
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1f1eebdfa46d4aab3be162f388ee3
+      internalID: 173276549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1256
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833cb8b0472eec4b97e0f5fa3ad408c
+      internalID: 215850678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1256
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2504d7dae0a94ab54301633aefbe2
+      internalID: -1853893070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14303f510c4d99746a2ec3ab40edffa9
+      internalID: 214515911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 942
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6873ea42efd6d34c88b5ebd3271d9d8
+      internalID: 313598574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 942
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb821e1f3ebc040bef30ca2850e449
+      internalID: -1380732196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 942
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc1c3b2eeb1fc49bb846cd959f149d
+      internalID: 819155619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 942
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5693758a2ec34caa75969d232e9db
+      internalID: 492159588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df953ee2690bb141ac13391a7509f36
+      internalID: 1266063893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 628
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60981efa8978d2943a987fb3256aed7c
+      internalID: 1622425739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 628
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1e37b7bb39114489ea96263bba085
+      internalID: -1195608798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 628
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d230eabfdb8cc4e97c8a72439c9b82
+      internalID: 1125526016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 628
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8958a152a69e4fa010401897f5214
+      internalID: -305435113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1ab652fdcbdd41a0b115c74ac28aa
+      internalID: 1073146384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 314
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ec3b5062903f40a89d86cdeac639a
+      internalID: -290383812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 314
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ad2eab2ae2fc4a96bb51797b25185
+      internalID: 1073856800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 314
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb9a439164ccf0439eda85c85c9f74c
+      internalID: -1979720013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 314
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b92905154b71440b71aa79cd791839
+      internalID: -1654615207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf2a19db6d446a4cbff3d266ab38a76
+      internalID: 489496430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1940043a63ffe1146a6a193db1ecffe0
+      internalID: 2067127982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2309430e028444b833a1a4a9d3161
+      internalID: 583262481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c6cf73f19ae244a5f42c8c6c44489
+      internalID: -1129981701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992a843a12fd5f46a2a37ffe6fb83e3
+      internalID: -978103183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_0: 2038478057
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_1: 2045827562
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_10: -41613478
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_11: 334832469
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_12: 173276549
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_13: 215850678
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_14: -1853893070
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_15: 214515911
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_16: 313598574
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_17: -1380732196
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_18: 819155619
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_19: 492159588
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_2: -600806994
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_20: 1266063893
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_21: 1622425739
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_22: -1195608798
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_23: 1125526016
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_24: -305435113
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_25: 1073146384
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_26: -290383812
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_27: 1073856800
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_28: -1979720013
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_29: -1654615207
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_3: 224627737
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_30: 489496430
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_31: 2067127982
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_32: 583262481
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_33: -1129981701
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_34: -978103183
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_4: -1852564297
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_5: 2010132864
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_6: 1586355398
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_7: 1837522497
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_8: 1043853782
+      ShaunTheSheepThumbsUpGIF-ShaunTheSheepThumbsUpApprove-DiscoverShareGIFs-ezgif.com-gif-to-sprite-converter_9: -1091062700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
